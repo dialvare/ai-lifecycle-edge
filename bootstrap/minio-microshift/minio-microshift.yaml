@@ -10,7 +10,7 @@ spec:
     server: https://kubernetes.default.svc
   source:
     path: bootstrap/minio-microshift/groups/dev
-    repoURL: https://github.com/rhdps/ai-lifecycle-edge-gitops.git
+    repoURL: https://github.com/rhpds/ai-lifecycle-edge-gitops.git
     targetRevision: main
   sources: []
   project: default
